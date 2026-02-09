@@ -1,0 +1,7 @@
+{
+  "name": "Samvaad+",
+  "description": "A multilingual, voice-first AI assistant for International users, providing career coaching, government scheme information, and general help in language on  the basis of nation .",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
